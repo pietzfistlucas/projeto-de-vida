@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,12 +11,34 @@
 <body>
 <section class="conteudo-principal">
 <h2 class="titulo-principal">Meus Objetivos do ano<span>_</span></h2>
+<div class="conteudo">
 <div class="botoes">
 <button class="botao">Cursos na Alura</button>
 <button class="botao">Criar projetos em Javascript</button>
 <button class="botao">Criar um portfolio</button>
 <button class="botao">Atualizar meu currículo</button>
 </div>
+<div class="abas-textos">
+    <div class="aba-conteudo ativo">
+<h3 class="aba-conteudo-titulo-principal"> tirar a minha 2° cnh </h3>
+<h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO </h4>
+    </div>
+        <div class="aba-conteudo ativo">
+<h3 class="aba-conteudo-titulo-principal"> comprar um caminhão </h3>
+<h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
+    </div>
+<div class="aba-conteudo ativo">
+<h3 class="aba-conteudo-titulo-principal"> vender carvão para fora da cidade </h3>
+<h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
+    </div>
+    <div class="aba-conteudo ativo">
+<h3 class="aba-conteudo-titulo-principal"> aumentar a produção de carvão </h3>
+<h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
+    </div>
+</div>
+</div>
 </section>
+<script src="main.js"></script>
 </body>
+
 </html>
