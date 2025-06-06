@@ -23,18 +23,22 @@
 <h3 class="aba-conteudo-titulo-principal"> tirar a minha 2° cnh </h3>
 <h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO </h4>
 <div class="contador"></div>
+</div>
         <div class="aba-conteudo ativo">
 <h3 class="aba-conteudo-titulo-principal"> comprar um caminhão </h3>
 <h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
 <div class="contador"></div>
+</div>
 <div class="aba-conteudo ativo">
 <h3 class="aba-conteudo-titulo-principal"> vender carvão para fora da cidade </h3>
 <h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
 <div class="contador"></div>
+</div>
     <div class="aba-conteudo ativo">
 <h3 class="aba-conteudo-titulo-principal"> aumentar a produção de carvão </h3>
 <h4 class="aba-conteudo-titulo-segundario"> TEMPO PARA COMPLETAR O OBJETIVO</h4>
 <div class="contador"></div>
+</div>
 </div>
 </div>
 </section>
