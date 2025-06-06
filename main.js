@@ -16,9 +16,15 @@ botoes[i].onclick = function () {
 
   const contadores = document.querySelectorAll(".contador");
   const tempoObjetivo1 = new Date("2028-12-30T00:00:00");
+  const tempoObjetivo2 = new Date("2029-12-30T00:00:00");
+  const tempoObjetivo3 = new Date("2033-12-30T00:00:00");
+  const tempoObjetivo4 = new Date("2035-12-30T00:00:00");
 
+const tempo = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
-  contadores[0].textContent = calculaTempo(tempoObjetivo1);
+  contadores[0].textContent = calculaTempo(tempo);
+  contadores[1].textContent = calculaTempo(tempoObjetivo1);
+
 
   function calculaTempo(tempoObjetivo); {
     let tempoAtual = new date();
